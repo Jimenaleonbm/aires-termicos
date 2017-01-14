@@ -194,6 +194,7 @@ jQuery(function($) {'use strict';
 	});
 
 	// Contact form
+	/*
 	var form = $('#main-contact-form');
 	form.submit(function(event){
 		event.preventDefault();
@@ -212,7 +213,7 @@ jQuery(function($) {'use strict';
 	$("a[rel^='prettyPhoto']").prettyPhoto({
 		social_tools: false
 	});
-
+	*/
 	//Google Map
 	var latitude = $('#google-map').data('latitude');
 	var longitude = $('#google-map').data('longitude');
