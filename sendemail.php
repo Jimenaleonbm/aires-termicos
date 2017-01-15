@@ -4,7 +4,7 @@
  $correo = $_POST["email"];
  $contenido = $_POST["message"];
 
- $para = "jimenaleonbm@gmail.com";
+ $para = "airestermicosingenieria@hotmail.com";
  $asunto = "Contacto de AiresTermicos";
  
 //  $mensaje = "
